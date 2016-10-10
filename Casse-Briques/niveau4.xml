@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<niveau id="4">
+    <brique couleur="2" x="7" y="35">
+        <brique couleur="1" x="85" y="35">
+            <brique couleur="3" x="163" y="35">
+                <brique couleur="4" x="241" y="35">
+                    <brique couleur="1" x="44" y="73">
+                        <brique couleur="0" x="125" y="73">
+                            <brique couleur="1" x="208" y="73">
+                                <brique couleur="2" x="79" y="104">
+                                    <brique couleur="3" x="162" y="104">
+                                        <brique couleur="2" x="79" y="150">
+                                            <brique couleur="4" x="162" y="150">
+                                                <brique couleur="2" x="125" y="170">
+                                                    <brique couleur="3" x="208" y="170">
+                                        
+                                    </niveau>
